@@ -1,0 +1,35 @@
+{
+  "name": "fundraiser",
+  "version": "1.0.0",
+  "description": "A fund-raising Smart Contract with voting used to release payments",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "truffle compile",
+    "test": "truffle test",
+    "verify": "truffle run verify",
+    "coverage": "truffle run coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalarenaSA/fundraiser.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "Smart",
+    "Contract",
+    "Fund",
+    "Raising"
+  ],
+  "author": "Malarena SA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalarenaSA/fundraiser/issues"
+  },
+  "homepage": "https://github.com/MalarenaSA/fundraiser#readme",
+  "devDependencies": {
+    "solidity-coverage": "^0.7.5"
+  }
+}

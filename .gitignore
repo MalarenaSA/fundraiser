@@ -102,3 +102,22 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Truffle Generated files
+config/development/contracts.json
+config/development/*.sol.js
+config/test/contracts.json
+build
+dist
+
+# Coverage Generated Files
+allFiredEvents
+scTopics
+scDebugLog
+coverage.json
+.changelog
+.DS_Store
+.solcover.js
+
+# local working files
+_localFiles
