@@ -207,3 +207,6 @@ Confirmation of Owner change processed.
 
 ## Credits
 The concept and some of the initial coding for this Smart Contract was based on an article written by Ankit Brahmbhatt: [Learning Solidity with a Simple Fundraising Smart Contract](https://medium.com/quick-code/learning-solidity-with-a-simple-fundraising-smart-contract-2fad8b1d8b73)
+
+## Release Notes
+- v1.0.0 - 19/05/2020 - Initial Release
