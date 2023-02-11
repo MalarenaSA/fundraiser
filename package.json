@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/MalarenaSA/fundraiser#readme",
   "devDependencies": {
-    "solidity-coverage": "^0.7.16"
+    "solidity-coverage": "^0.8.2"
   }
 }
